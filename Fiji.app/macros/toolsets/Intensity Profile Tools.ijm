@@ -8,7 +8,7 @@ var pre_margin   = 75;
 var post_margin  = 20;
 var title_height = 32; // works in windows 10
 
-macro "X/Y intensity profiles panels Action Tool - Cf00Lff11" {
+macro "X/Y intensity profiles panels Action Tool - icon:Logo-Intensity-panels.png" {
     
     title = getTitle();
     img_height = getHeight();
