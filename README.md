@@ -1,5 +1,7 @@
 # IntensityProfileToolset-ImageJ
 
+![ImageJ toolbar](https://github.com/LauLauThom/IntensityProfileToolset-ImageJ/blob/main/ImageJ-toolbar.PNG)  
+
 The toolset currently provides 2 tools : 
 
 - __X/Y intensity profile panel tools__  
